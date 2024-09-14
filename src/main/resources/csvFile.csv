@@ -1,0 +1,10 @@
+name,age,salary,department,join_date,active_status
+Bob,58,100976,Engineering,11/27/16,TRUE
+Charlie,42,59766,HR,11/7/21,TRUE
+Alice,39,83443,Marketing,2/8/16,FALSE
+Charlie,40,39621,HR,11/17/16,TRUE
+Siva,34,94204,Sales,5/27/19,FALSE
+Jane,46,70794,Marketing,3/14/15,FALSE
+Alice,37,64269,HR,4/23/21,FALSE
+Alice,50,42461,Marketing,5/17/20,FALSE
+Alice,37,78394,Engineering,4/24/15,FALSE
